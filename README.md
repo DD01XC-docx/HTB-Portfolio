@@ -5,7 +5,3 @@ Welcome to my Hack The Box (HTB) portfolio. This repository documents my progres
 ## 📌 About
 
 This project serves as both a personal learning log and a showcase of practical skills in offensive security. All machines and challenges documented here have been completed on Hack The Box under its Terms of Service.
-
----
-
-## 📁 Repository Structure
