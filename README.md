@@ -1,4 +1,3 @@
-HTB Portfolio 🧠🔒
 Welcome to my Hack The Box (HTB) portfolio. This repository documents my progress in penetration testing and cybersecurity through HTB machines, challenges, and labs. Each entry includes write-ups, tools used, scripts developed, and personal notes.
 
 ---
